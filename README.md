@@ -1,21 +1,15 @@
-- 👋 Hi, I’m @rrabmig. Real name: Danila Kalinin
-- 👀 I’m interested in
-  finding a job
-  locating interesting projects to contribute to.
-- 🌱 I’m currently learning
-  
-- 💞️ I’m looking to collaborate on ...
-  
-- 📫 How to reach me
-  tg: @rrabmig
-  
-- 😄 Pronouns: ...
-- ⚡ Fun fact:
-  Bachelor in Chemistry: Theoretical and Experimental (MUCTR 2020-2024)
-  I am into sports - I adore ping-pong and gimbarr.
-  
+- 👋 Привет, я @rrabmig. Настоящее имя: Данила Калинин
 
-<!---
-rrabmig/rrabmig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Мои публичные репы:
+1. habbits-tracker - React Native + Expo + SQLite приложение для отслеживания динамики привычек. (Немного недоделана)
+2. Shindowz-XP - SPA, которое стилистически очень напоминает винду XP. Основа готова, надеюсь руки дойдут приложений туда напихать
+3. todos - Классичекский тудулист. Красивый, но простой. (https://todos-beta-nine.vercel.app/)
+4. converter - Обычный конвертер валют. Функционал есть, визуал немножко доделаю позже. (https://converter-kohl-eight.vercel.app/)
+5. game - тестовое задание в Белася Доска. Игра "Дуэль" полностью соответсвтует ТЗ. (https://duelgame.vercel.app/)
+
+Репы закрытые, но посмотреть можно (много поломалось)
+https://kino-taupe.vercel.app/
+https://vk.com/public206460537 (чат бот коза - /ask привет коза, расскажи о погоде?)
+
+
+
